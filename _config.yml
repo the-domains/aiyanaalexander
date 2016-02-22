@@ -1,6 +1,6 @@
 name: aiyanaalexander
 favicon: null
-layout_spectrum: 0.7952506945002824
+layout_spectrum: 0.1629
 typography_spectrum: 0.5276548098772764
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ff00ff'
+    - '#040006'
+    - '#ff8eff'
+    - '#fefefe'
+    - '#40a8c5'
   brandStrength: 0.9505508437287062
   lightness: 0.47901023807935417
   saturation: 0.10342297167517245
