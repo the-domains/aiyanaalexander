@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[aiyanaalexander]]></title>
         <description><![CDATA[aiyanaalexander]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aiyanaalexander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 21:13:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 21:14:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aiyanaalexander/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.aiyanaalexander.com/wp-content/uploads/G9A6136-copy-email.jpg">]]></description>
+            <link>https://thegrid.ai/aiyanaalexander/c07d0c27-c81e-4739-a05d-7174949d4beb/index.html</link>
+            <guid isPermaLink="false">c07d0c27-c81e-4739-a05d-7174949d4beb</guid>
+            <pubDate>Mon, 22 Feb 2016 21:14:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.aiyanaalexander.com/wp-content/uploads/G9A6317-copy-email.jpg">]]></description>
-            <link>undefinedac51835a-b3b9-4f4a-b227-88f908e9a52d/index.html</link>
+            <link>https://thegrid.ai/aiyanaalexander/ac51835a-b3b9-4f4a-b227-88f908e9a52d/index.html</link>
             <guid isPermaLink="false">ac51835a-b3b9-4f4a-b227-88f908e9a52d</guid>
             <pubDate>Mon, 22 Feb 2016 21:12:34 GMT</pubDate>
         </item>
