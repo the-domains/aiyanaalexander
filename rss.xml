@@ -4,8 +4,14 @@
         <description><![CDATA[Aiyana Alexander - Fashion Model]]></description>
         <link>https://thegrid.ai/aiyanaalexander/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 01:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Feb 2016 01:55:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/aiyanaalexander/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/aiyanaalexander/d189744d-2b74-4ec5-852e-8ff8db29ed47/index.html</link>
+            <guid isPermaLink="false">d189744d-2b74-4ec5-852e-8ff8db29ed47</guid>
+            <pubDate>Tue, 23 Feb 2016 01:55:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://www.aiyanaalexander.com/wp-content/uploads/G9A6014.jpg">]]></description>
@@ -68,13 +74,6 @@
             <link>https://thegrid.ai/aiyanaalexander/c07d0c27-c81e-4739-a05d-7174949d4beb/index.html</link>
             <guid isPermaLink="false">c07d0c27-c81e-4739-a05d-7174949d4beb</guid>
             <pubDate>Mon, 22 Feb 2016 21:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.aiyanaalexander.com/wp-content/uploads/G9A6317-copy-email.jpg">]]></description>
-            <link>https://thegrid.ai/aiyanaalexander/ac51835a-b3b9-4f4a-b227-88f908e9a52d/index.html</link>
-            <guid isPermaLink="false">ac51835a-b3b9-4f4a-b227-88f908e9a52d</guid>
-            <pubDate>Mon, 22 Feb 2016 21:12:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
